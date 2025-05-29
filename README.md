@@ -5,7 +5,8 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 <img src="https://specials-images.forbesimg.com/imageserve/5e4fc2ded378190007f3f9f2/960x0.jpg" width=1000>
 
 ## Overview :
-This dataset contains Airbnb data for over 250,000 listings across 10 major cities worldwide. It includes detailed information about hosts, pricing, locations, room types, and over 5 million historical guest reviews. The dataset provides valuable insights for studying trends in the short-term rental market.
+This project performs exploratory data analysis (EDA) on Airbnb listings to uncover insights into pricing trends, neighborhood popularity, host behavior, and property characteristics. The analysis involves data cleaning, visualization, and interpretation using Python libraries such as Pandas, Matplotlib, and Seaborn.
+
 
 ## Dataset :
 The dataset includes the following files:
