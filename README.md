@@ -9,6 +9,14 @@ Airbnb is an online marketplace that connects people who want to rent out their 
 This project explores and analyzes Airbnb listing data to uncover patterns in pricing, availability, host behavior, and property features. Through detailed data cleaning and visualization, we aim to provide meaningful insights that can help hosts and guests make informed decisions.
 
 
+## 🧰 Dataset :
+The dataset includes the following files:
+- listings.csv
+Contains detailed information about Airbnb properties, including host details, location, pricing, and room types.
+- reviews.csv
+Includes guest reviews for Airbnb properties, covering feedback, review dates, and reviewer details.
+
+
 ## 📌 Objective
 - Understand pricing trends across different property types and locations.
 - Identify the most popular neighborhoods and listing types.
