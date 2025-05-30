@@ -16,14 +16,6 @@ This project explores and analyzes Airbnb listing data to uncover patterns in pr
 - Visualize key metrics to support data-driven decision-making.
 
 
-
-## 🔍 The dataset contains information about Airbnb listings, including:
-- Listing ID, name, location
-- Host details
-- Price, minimum nights, number of reviews
-- Availability, room type, and more
-
-
 ## 🧰 Tools & Technologies Used
 - **Python**
 - **Pandas** – data manipulation
